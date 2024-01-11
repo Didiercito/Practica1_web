@@ -1,0 +1,35 @@
+.container-1{
+   display: flex;
+   justify-content: center;
+   margin-top: 10%; 
+}
+
+.container-2{
+    background-color: red;
+    width: 50vh;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    
+}
+
+.container-3{
+    background-color: blue;
+    width: 25vh;
+    height: 25vh;
+    margin-top: 24%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.circle{
+background-color: green;
+width: 15vh;
+height: 15vh;
+border-radius: 100%;
+border: solid 2px white;
+margin-top: 20%;
+}
